@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework5_14.Web", "homework5_14.Web\homework5_14.Web.csproj", "{5994F639-0696-46C0-B04B-17548C3EAE2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework5_14.Data", "homework5_14.Data\homework5_14.Data.csproj", "{FB76FBF5-8EE1-41D8-82A6-B4958B197E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5994F639-0696-46C0-B04B-17548C3EAE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5994F639-0696-46C0-B04B-17548C3EAE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5994F639-0696-46C0-B04B-17548C3EAE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5994F639-0696-46C0-B04B-17548C3EAE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB76FBF5-8EE1-41D8-82A6-B4958B197E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB76FBF5-8EE1-41D8-82A6-B4958B197E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB76FBF5-8EE1-41D8-82A6-B4958B197E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB76FBF5-8EE1-41D8-82A6-B4958B197E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
